@@ -1,10 +1,10 @@
 {
   "name": "my-modal-p14",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": false,
-  "babel": { 
-  "presets": [
-    "@babel/preset-react"
+  "babel": {
+    "presets": [
+      "@babel/preset-react"
     ]
   },
   "dependencies": {
@@ -16,7 +16,6 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -46,5 +45,4 @@
     "@babel/cli": "^7.22.9",
     "@babel/preset-react": "^7.22.5"
   }
-  
 }
