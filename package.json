@@ -1,12 +1,24 @@
 {
   "name": "my-modal-p14",
   "version": "0.3.1",
+  "description": "a modal react components",
   "private": false,
   "babel": {
     "presets": [
       "@babel/preset-react"
     ]
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vmuller55/my-modal-p14"
+  },
+  "keywords": [
+    "react",
+    "modal",
+    "react-modal",
+    "my-modal"
+  ],
+  "author": "Muller Vincent",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
