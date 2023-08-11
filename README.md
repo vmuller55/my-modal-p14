@@ -1,6 +1,12 @@
 # simple-component-library
 A library of React components created using `create-react-app`.
 
+## Node version
+You need have node version 18.17.1 at least
+
+## React
+You need to be in a React environment
+
 ## Installation
 Run the following command:
 `npm install my-modal-p14`
